@@ -1,0 +1,1 @@
+<pkg-contents spec="1.12"><f n="etc" o="root" g="wheel" p="16877" pt="/Users/paul/Development/mongo-installer/misc/private/etc" m="false" t="file"><f n="mongod.conf" o="root" g="wheel" p="33188"/><f n="paths.d" o="root" g="wheel" p="16877"><f n="mongodb" o="root" g="wheel" p="33188"><mod>group</mod><mod>owner</mod></f></f><mod>group</mod><mod>owner</mod></f></pkg-contents>
